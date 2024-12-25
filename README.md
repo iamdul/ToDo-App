@@ -35,7 +35,7 @@ The backend is a Laravel-based API, while the frontend is a Next.js application 
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/iamdul/Todo-App.git
-   cd backend
+   cd server
    ```
 
 2. **Install dependencies:**
@@ -69,7 +69,7 @@ The backend is a Laravel-based API, while the frontend is a Next.js application 
 
 1. **Navigate to the frontend folder:**
    ```bash
-   cd frontend
+   cd client
    ```
 
 2. **Install dependencies:**
